@@ -1,0 +1,8 @@
+insightface
+onnxruntime
+opencv-python
+pillow
+matplotlib
+gfpgan
+gradio
+huggingface_hub
